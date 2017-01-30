@@ -11,7 +11,9 @@
   "author": "Po-Ying Chen",
   "license": "MIT",
   "dependencies": {
-    "superagent": "^3.4.1"
+    "browserify": "^14.0.0",
+    "superagent": "^3.4.1",
+    "through2": "^2.0.3"
   },
   "devDependencies": {},
   "description": "Mixpanel JQL Client"
