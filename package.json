@@ -1,6 +1,6 @@
 {
   "name": "mixpanel-jql",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "lib/client.js",
   "directories": {
     "test": "test"
